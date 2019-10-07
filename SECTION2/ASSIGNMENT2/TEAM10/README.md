@@ -6,5 +6,6 @@ Put your name in the Team Section and comment
 
 ## Team
 
+Hi guys, I am Jiayu Lyu, or Nicole.
 
 ## Comments
